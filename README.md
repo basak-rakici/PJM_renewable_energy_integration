@@ -55,18 +55,17 @@ The `data/` folder contains input datasets required for running the notebooks. N
   git lfs pull
 4. Open notebooks in order:
 
-Base_Case.ipynb
+  Base_Case.ipynb
+  
+  Sensitivity_Cases.ipynb
+  
+  PostProcessData.ipynb
 
-Sensitivity_Cases.ipynb
-
-PostProcessData.ipynb
-
-Notes
+## Notes
 
 data/ contains input datasets; intermediate or large outputs can be stored in results/.
 
 Ensure that large files are managed via Git LFS to avoid repository size issues.
 
-Shape files can be found in these links:
 
 
