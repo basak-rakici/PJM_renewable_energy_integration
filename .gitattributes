@@ -1,1 +1,4 @@
 data/* filter=lfs diff=lfs merge=lfs -text
+data/inputs/ipm_v6_regions/IPM_Regions_201770405.shp filter=lfs diff=lfs merge=lfs -text
+data/inputs/tl_2025_us_county.zip filter=lfs diff=lfs merge=lfs -text
+data/inputs/tl_2025_us_county/tl_2025_us_county.shp filter=lfs diff=lfs merge=lfs -text
