@@ -5,12 +5,19 @@ This repository contains code and data for analyzing power system cases, running
 ## Repository Structure
 
 basak-rakici/
+
 ├─ data/ # Input data files (tracked via Git LFS)
+
 ├─ results/ # Output files and visualizations
+
 ├─ Base_Case.ipynb # 2023 case input generation, OPF, reliability index
+
 ├─ Sensitivity_Cases.ipynb # 2030 case, OPF, reliability index, sensitivity analysis
+
 ├─ PostProcessData.ipynb # Visualizations of generation mix, load, network, and sensitivity/congestion results
+
 ├─ requirements.txt # Python dependencies
+
 ├─ .gitattributes # Git LFS configuration
 
 
