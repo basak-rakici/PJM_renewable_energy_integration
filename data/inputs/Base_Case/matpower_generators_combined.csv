@@ -1,0 +1,117 @@
+GEN_ID,PLANT_NAME,ZONE,FUEL_TYPE,BUS,PG,PMAX,PMIN,COST
+GEN_1,Bituminous_PJM_AP,PJM_AP,Bituminous,0,0,5391.0,0,2.14
+GEN_2,Distillate Fuel Oil_PJM_AP,PJM_AP,Distillate Fuel Oil,0,0,18.1,0,21.5
+GEN_3,Energy Storage_PJM_AP,PJM_AP,Energy Storage,0,0,58.5,0,0.0
+GEN_4,Hydro_PJM_AP,PJM_AP,Hydro,0,0,129.4,0,0.0
+GEN_5,Landfill Gas_PJM_AP,PJM_AP,Landfill Gas,0,0,27.6,0,1.5
+GEN_6,Natural Gas_PJM_AP,PJM_AP,Natural Gas,0,0,2949.8,0,2.55
+GEN_7,"Natural Gas, Distillate Fuel Oil_PJM_AP",PJM_AP,"Natural Gas, Distillate Fuel Oil",0,0,1672.9,0,12.025
+GEN_8,Solar_PJM_AP,PJM_AP,Solar,0,0,559.4,0,0.0
+GEN_9,Waste Coal_PJM_AP,PJM_AP,Waste Coal,0,0,80.0,0,5.53
+GEN_10,Wind_PJM_AP,PJM_AP,Wind,0,0,1201.4,0,0.0
+GEN_11,Biomass_PJM_ATSI,PJM_ATSI,Biomass,0,0,7.2,0,7.39
+GEN_12,Bituminous_PJM_ATSI,PJM_ATSI,Bituminous,0,0,47.0,0,2.14
+GEN_13,Distillate Fuel Oil_PJM_ATSI,PJM_ATSI,Distillate Fuel Oil,0,0,251.6,0,21.5
+GEN_14,Energy Storage_PJM_ATSI,PJM_ATSI,Energy Storage,0,0,12.0,0,0.0
+GEN_15,Fossil Waste_PJM_ATSI,PJM_ATSI,Fossil Waste,0,0,19.1,0,0.0
+GEN_16,Hydro_PJM_ATSI,PJM_ATSI,Hydro,0,0,4.5,0,0.0
+GEN_17,Landfill Gas_PJM_ATSI,PJM_ATSI,Landfill Gas,0,0,37.6,0,1.5
+GEN_18,Natural Gas_PJM_ATSI,PJM_ATSI,Natural Gas,0,0,5179.5,0,2.55
+GEN_19,"Natural Gas, Distillate Fuel Oil_PJM_ATSI",PJM_ATSI,"Natural Gas, Distillate Fuel Oil",0,0,2361.0,0,12.025
+GEN_20,Non-Fossil Waste_PJM_ATSI,PJM_ATSI,Non-Fossil Waste,0,0,3.0,0,0.0
+GEN_21,Nuclear Fuel_PJM_ATSI,PJM_ATSI,Nuclear Fuel,0,0,894.0,0,0.7
+GEN_22,Petroleum Coke_PJM_ATSI,PJM_ATSI,Petroleum Coke,0,0,139.0,0,1.8
+GEN_23,Solar_PJM_ATSI,PJM_ATSI,Solar,0,0,1213.6,0,0.0
+GEN_24,Wind_PJM_ATSI,PJM_ATSI,Wind,0,0,40.1,0,0.0
+GEN_25,Distillate Fuel Oil_PJM_COMD,PJM_COMD,Distillate Fuel Oil,0,0,367.3,0,21.5
+GEN_26,Energy Storage_PJM_COMD,PJM_COMD,Energy Storage,0,0,95.8,0,0.0
+GEN_27,Hydro_PJM_COMD,PJM_COMD,Hydro,0,0,29.7,0,0.0
+GEN_28,Landfill Gas_PJM_COMD,PJM_COMD,Landfill Gas,0,0,59.800000000000004,0,1.5
+GEN_29,Natural Gas_PJM_COMD,PJM_COMD,Natural Gas,0,0,12048.0,0,2.55
+GEN_30,"Natural Gas, Distillate Fuel Oil_PJM_COMD",PJM_COMD,"Natural Gas, Distillate Fuel Oil",0,0,493.1,0,12.025
+GEN_31,Non-Fossil Waste_PJM_COMD,PJM_COMD,Non-Fossil Waste,0,0,3.0,0,0.0
+GEN_32,Nuclear Fuel_PJM_COMD,PJM_COMD,Nuclear Fuel,0,0,10517.4,0,0.7
+GEN_33,Solar_PJM_COMD,PJM_COMD,Solar,0,0,919.0999999999999,0,0.0
+GEN_34,Wind_PJM_COMD,PJM_COMD,Wind,0,0,4624.5,0,0.0
+GEN_35,Biomass_PJM_Dom,PJM_Dom,Biomass,0,0,123.9,0,7.39
+GEN_36,Bituminous_PJM_Dom,PJM_Dom,Bituminous,0,0,891.7,0,2.14
+GEN_37,Distillate Fuel Oil_PJM_Dom,PJM_Dom,Distillate Fuel Oil,0,0,520.3,0,21.5
+GEN_38,Energy Storage_PJM_Dom,PJM_Dom,Energy Storage,0,0,122.5,0,0.0
+GEN_39,Hydro_PJM_Dom,PJM_Dom,Hydro,0,0,626.1,0,0.0
+GEN_40,Landfill Gas_PJM_Dom,PJM_Dom,Landfill Gas,0,0,119.6,0,1.5
+GEN_41,MSW_PJM_Dom,PJM_Dom,MSW,0,0,173.5,0,0.0
+GEN_42,Natural Gas_PJM_Dom,PJM_Dom,Natural Gas,0,0,4130.7,0,2.55
+GEN_43,"Natural Gas, Distillate Fuel Oil_PJM_Dom",PJM_Dom,"Natural Gas, Distillate Fuel Oil",0,0,7323.0,0,12.025
+GEN_44,Non-Fossil Waste_PJM_Dom,PJM_Dom,Non-Fossil Waste,0,0,196.3,0,0.0
+GEN_45,Nuclear Fuel_PJM_Dom,PJM_Dom,Nuclear Fuel,0,0,3568.0,0,0.7
+GEN_46,Pumped Storage_PJM_Dom,PJM_Dom,Pumped Storage,0,0,3003.0,0,0.0
+GEN_47,Solar_PJM_Dom,PJM_Dom,Solar,0,0,4815.3,0,0.0
+GEN_48,Wind_PJM_Dom,PJM_Dom,Wind,0,0,1485.0,0,0.0
+GEN_49,Distillate Fuel Oil_PJM_EMAC,PJM_EMAC,Distillate Fuel Oil,0,0,1653.5,0,21.5
+GEN_50,Energy Storage_PJM_EMAC,PJM_EMAC,Energy Storage,0,0,88.4,0,0.0
+GEN_51,Fossil Waste_PJM_EMAC,PJM_EMAC,Fossil Waste,0,0,163.4,0,0.0
+GEN_52,Hydro_PJM_EMAC,PJM_EMAC,Hydro,0,0,713.5,0,0.0
+GEN_53,Landfill Gas_PJM_EMAC,PJM_EMAC,Landfill Gas,0,0,89.1,0,1.5
+GEN_54,MSW_PJM_EMAC,PJM_EMAC,MSW,0,0,294.3,0,0.0
+GEN_55,Natural Gas_PJM_EMAC,PJM_EMAC,Natural Gas,0,0,9743.5,0,2.5499999999999994
+GEN_56,"Natural Gas, Distillate Fuel Oil_PJM_EMAC",PJM_EMAC,"Natural Gas, Distillate Fuel Oil",0,0,7341.2,0,12.025
+GEN_57,"Natural Gas, Residual Fuel Oil_PJM_EMAC",PJM_EMAC,"Natural Gas, Residual Fuel Oil",0,0,710.0,0,10.275
+GEN_58,Non-Fossil Waste_PJM_EMAC,PJM_EMAC,Non-Fossil Waste,0,0,5.6,0,0.0
+GEN_59,Nuclear Fuel_PJM_EMAC,PJM_EMAC,Nuclear Fuel,0,0,8247.9,0,0.7
+GEN_60,Petroleum Coke_PJM_EMAC,PJM_EMAC,Petroleum Coke,0,0,11.6,0,1.8
+GEN_61,Pumped Storage_PJM_EMAC,PJM_EMAC,Pumped Storage,0,0,1490.0,0,0.0
+GEN_62,Solar_PJM_EMAC,PJM_EMAC,Solar,0,0,1777.0,0,0.0
+GEN_63,Wind_PJM_EMAC,PJM_EMAC,Wind,0,0,3226.8,0,0.0
+GEN_64,Bituminous_PJM_PENE,PJM_PENE,Bituminous,0,0,3400.0,0,2.14
+GEN_65,"Bituminous, Waste Coal_PJM_PENE",PJM_PENE,"Bituminous, Waste Coal",0,0,84.0,0,3.835
+GEN_66,Distillate Fuel Oil_PJM_PENE,PJM_PENE,Distillate Fuel Oil,0,0,28.4,0,21.5
+GEN_67,Energy Storage_PJM_PENE,PJM_PENE,Energy Storage,0,0,28.4,0,0.0
+GEN_68,Hydro_PJM_PENE,PJM_PENE,Hydro,0,0,152.7,0,0.0
+GEN_69,Landfill Gas_PJM_PENE,PJM_PENE,Landfill Gas,0,0,17.2,0,1.5
+GEN_70,Natural Gas_PJM_PENE,PJM_PENE,Natural Gas,0,0,3959.0,0,2.55
+GEN_71,"Natural Gas, Distillate Fuel Oil_PJM_PENE",PJM_PENE,"Natural Gas, Distillate Fuel Oil",0,0,86.0,0,12.025
+GEN_72,Pumped Storage_PJM_PENE,PJM_PENE,Pumped Storage,0,0,452.0,0,0.0
+GEN_73,Solar_PJM_PENE,PJM_PENE,Solar,0,0,158.3,0,0.0
+GEN_74,Waste Coal_PJM_PENE,PJM_PENE,Waste Coal,0,0,680.0,0,5.53
+GEN_75,Wind_PJM_PENE,PJM_PENE,Wind,0,0,1103.5,0,0.0
+GEN_76,Bituminous_PJM_SMAC,PJM_SMAC,Bituminous,0,0,1273.0,0,2.14
+GEN_77,Distillate Fuel Oil_PJM_SMAC,PJM_SMAC,Distillate Fuel Oil,0,0,264.8,0,21.5
+GEN_78,Energy Storage_PJM_SMAC,PJM_SMAC,Energy Storage,0,0,1.5,0,0.0
+GEN_79,Landfill Gas_PJM_SMAC,PJM_SMAC,Landfill Gas,0,0,14.5,0,1.5
+GEN_80,MSW_PJM_SMAC,PJM_SMAC,MSW,0,0,115.19999999999999,0,0.0
+GEN_81,Natural Gas_PJM_SMAC,PJM_SMAC,Natural Gas,0,0,2722.2,0,2.55
+GEN_82,"Natural Gas, Distillate Fuel Oil_PJM_SMAC",PJM_SMAC,"Natural Gas, Distillate Fuel Oil",0,0,1311.1,0,12.025
+GEN_83,Non-Fossil Waste_PJM_SMAC,PJM_SMAC,Non-Fossil Waste,0,0,13.8,0,0.0
+GEN_84,Nuclear Fuel_PJM_SMAC,PJM_SMAC,Nuclear Fuel,0,0,1707.8,0,0.7
+GEN_85,Solar_PJM_SMAC,PJM_SMAC,Solar,0,0,188.1,0,0.0
+GEN_86,Biomass_PJM_WMAC,PJM_WMAC,Biomass,0,0,2.5,0,7.39
+GEN_87,Bituminous_PJM_WMAC,PJM_WMAC,Bituminous,0,0,1557.0,0,2.14
+GEN_88,Distillate Fuel Oil_PJM_WMAC,PJM_WMAC,Distillate Fuel Oil,0,0,360.5,0,21.5
+GEN_89,Energy Storage_PJM_WMAC,PJM_WMAC,Energy Storage,0,0,20.0,0,0.0
+GEN_90,Hydro_PJM_WMAC,PJM_WMAC,Hydro,0,0,597.9,0,0.0
+GEN_91,Landfill Gas_PJM_WMAC,PJM_WMAC,Landfill Gas,0,0,62.4,0,1.5
+GEN_92,MSW_PJM_WMAC,PJM_WMAC,MSW,0,0,79.2,0,0.0
+GEN_93,Natural Gas_PJM_WMAC,PJM_WMAC,Natural Gas,0,0,9122.4,0,2.55
+GEN_94,"Natural Gas, Distillate Fuel Oil_PJM_WMAC",PJM_WMAC,"Natural Gas, Distillate Fuel Oil",0,0,1397.9,0,12.025
+GEN_95,"Natural Gas, Residual Fuel Oil_PJM_WMAC",PJM_WMAC,"Natural Gas, Residual Fuel Oil",0,0,1700.0,0,10.275
+GEN_96,Non-Fossil Waste_PJM_WMAC,PJM_WMAC,Non-Fossil Waste,0,0,18.4,0,0.0
+GEN_97,Nuclear Fuel_PJM_WMAC,PJM_WMAC,Nuclear Fuel,0,0,2494.0,0,0.7
+GEN_98,Solar_PJM_WMAC,PJM_WMAC,Solar,0,0,174.0,0,0.0
+GEN_99,Waste Coal_PJM_WMAC,PJM_WMAC,Waste Coal,0,0,431.0,0,5.53
+GEN_100,Wind_PJM_WMAC,PJM_WMAC,Wind,0,0,285.5,0,0.0
+GEN_101,Biomass_PJM_West,PJM_West,Biomass,0,0,3.3,0,7.39
+GEN_102,Bituminous_PJM_West,PJM_West,Bituminous,0,0,15317.6,0,2.14
+GEN_103,"Bituminous, Subbituminous_PJM_West",PJM_West,"Bituminous, Subbituminous",0,0,962.0,0,2.14
+GEN_104,"Bituminous, Waste Coal_PJM_West",PJM_West,"Bituminous, Waste Coal",0,0,610.0,0,3.835
+GEN_105,Distillate Fuel Oil_PJM_West,PJM_West,Distillate Fuel Oil,0,0,262.0,0,21.5
+GEN_106,Energy Storage_PJM_West,PJM_West,Energy Storage,0,0,22.8,0,0.0
+GEN_107,Fossil Waste_PJM_West,PJM_West,Fossil Waste,0,0,99.80000000000001,0,0.0
+GEN_108,Hydro_PJM_West,PJM_West,Hydro,0,0,1103.7,0,0.0
+GEN_109,Landfill Gas_PJM_West,PJM_West,Landfill Gas,0,0,54.9,0,1.5
+GEN_110,Natural Gas_PJM_West,PJM_West,Natural Gas,0,0,13628.7,0,2.55
+GEN_111,"Natural Gas, Distillate Fuel Oil_PJM_West",PJM_West,"Natural Gas, Distillate Fuel Oil",0,0,3465.0,0,12.025
+GEN_112,"Natural Gas, Distillate Fuel Oil, Hydrogen_PJM_West",PJM_West,"Natural Gas, Distillate Fuel Oil, Hydrogen",0,0,505.0,0,8.016666666666667
+GEN_113,Nuclear Fuel_PJM_West,PJM_West,Nuclear Fuel,0,0,3985.0,0,0.7
+GEN_114,Pumped Storage_PJM_West,PJM_West,Pumped Storage,0,0,238.0,0,0.0
+GEN_115,Solar_PJM_West,PJM_West,Solar,0,0,3988.8,0,0.0
+GEN_116,Wind_PJM_West,PJM_West,Wind,0,0,3082.9,0,0.0
