@@ -1,4 +1,4 @@
-# Basak-Rakici Energy Systems Repository
+# Energy Systems Repository
 
 This repository contains code and data for analyzing power system cases, running optimal power flow (OPF), computing reliability indices, and performing sensitivity analyses for different generation scenarios.
 
